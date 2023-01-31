@@ -12,7 +12,6 @@ some tips for HyperGraph
 * 每条曲线的横坐标由底下的**x/y**包含的数据展示  
 下图显示的例子, **x/y的source来源是file**, 分别读取自一个**csv文件**的**time列**和**Pulse列**.  
 ![xy](./assets/1.2_xy.png)
-
 但是，**x/y**也可以表示成函数表达式的显示, **source来源这时候要选择Math**.  
 比如:  
   - 我们可以让**u/v**读取文件的数据, 而**x/y**分别表示成**u/v**的函数.  
@@ -95,8 +94,8 @@ WS假人胸压经常需要使用0时刻归零操作，这时候需要借助**v**
 ## 5. 滤波  
 很多曲线原始的通道数据没有滤波，这个时候需要按需求进行CFC1000/600/180/60等滤波.  
 * 滤波的算法有很多, SAE/ SAE-2/ SAE J211/ ISO 6487, 不同滤波算法的结果会有一些差异，目前我对此还没有研究.  
-![filter](./assets/5.1_filter.png)
-![filter](./assets/5.2_filter_algo.png)
+<img src="./assets/5.1_filter.png" width=500>
+<img src="./assets/5.2_filter_algo.png" width=500>
 
 * 以下以**ISO 6487**为例子，介绍滤波公式.  
   目标|表达式
