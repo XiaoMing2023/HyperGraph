@@ -2,7 +2,7 @@
 How to use this tool  
 
 ## 1. 适用范围  
-* 当前软件最新版本号：**V0.3 VIP**  
+* 当前软件最新版本号：**V0.4 VIP** (修复弹窗bug)
 * 支持**HyperGraph/HyperView软件单一窗口**  
 * 尚不支持**多窗**口**  
 * 尚不支持**HyperMesh**及其他  
