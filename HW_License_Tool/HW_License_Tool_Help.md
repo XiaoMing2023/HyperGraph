@@ -26,5 +26,5 @@ How to use this tool
 
 * 使用过程中，可以随时：
     - 按下 **“Stop”键**，中止程序继续运行。后面可以重新开始。  
-    - 按下 **“Exit”建**，完全退出程序。
-    ![Stop](./img/03_stop.png) 
+    - 按下 **“Exit”建**，完全退出程序。  
+    ![Stop](./img/03_stop.png)   
