@@ -1,6 +1,8 @@
 # HW License Tool  
 How to use this tool  
 
+## **因为违反政策，项目取消**
+
 ## 1. 适用范围  
 * 当前软件最新版本号：**V0.5 VIP** beta (修复弹窗bug)  
     - 相比V0.4：修复弹窗bug, 运行更加隐蔽；修复VIP使用时段23：59报错bug。  
